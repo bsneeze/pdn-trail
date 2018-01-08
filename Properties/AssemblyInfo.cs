@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Zach Walker, a.k.a. pyrochild")]
 [assembly: AssemblyProduct("Trail")]
-[assembly: AssemblyCopyright("Copyright © 2010-2014 Zach Walker")]
+[assembly: AssemblyCopyright("Copyright © 2010-2018 Zach Walker")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
